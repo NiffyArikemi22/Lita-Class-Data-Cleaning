@@ -11,10 +11,11 @@ data (folder containing sample dirty data)
 [Excel Functions 2 - Text.xlsx](https://github.com/user-attachments/files/17488830/Excel.Functions.2.-.Text.xlsx)
 
 ### issues
-1. unnecessary space
+1. Unnecessary space
 2. Name not properly entered
 3. Null columns and rows
 4. Proper, Upper and Lower case issues
+5. Extraction and Merging task
 
 ### Transformation stage: Cleaning Data with Power BI
 1. Take the dirty Data to Transform Data on PowerBI
